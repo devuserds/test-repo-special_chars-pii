@@ -1,0 +1,7 @@
+SYNTHETIC TEST DATA - NOT REAL PII - FOR TESTING PURPOSES ONLY
+This file contains entirely fictional data generated for software testing.
+No real person, account, or institution is represented.
+
+Theme: Credit Card (industry-standard test number, not a real account)
+Card Number: 4242 4242 4242 4242
+Expiry: 01/30
