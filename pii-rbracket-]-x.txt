@@ -1,0 +1,6 @@
+SYNTHETIC TEST DATA - NOT REAL PII - FOR TESTING PURPOSES ONLY
+This file contains entirely fictional data generated for software testing.
+No real person, account, or institution is represented.
+
+Theme: Biometric ID (fictional)
+Biometric ID: BIO-TEST-000999
