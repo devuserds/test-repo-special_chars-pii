@@ -1,0 +1,6 @@
+SYNTHETIC TEST DATA - NOT REAL PII - FOR TESTING PURPOSES ONLY
+This file contains entirely fictional data generated for software testing.
+No real person, account, or institution is represented.
+
+Theme: Full Physical Address (fictional)
+Address: 456 Sample Avenue, Apt 7, Exampleville, ZZ 00001
