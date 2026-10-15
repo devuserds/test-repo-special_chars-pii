@@ -1,0 +1,7 @@
+SYNTHETIC TEST DATA - NOT REAL PII - FOR TESTING PURPOSES ONLY
+This file contains entirely fictional data generated for software testing.
+No real person, account, or institution is represented.
+
+Theme: Insurance Policy Number (fictional)
+Policy Number: INS-TEST-000777
+Provider: Example Health Co (fictional)
