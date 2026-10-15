@@ -1,0 +1,7 @@
+SYNTHETIC TEST DATA - NOT REAL PII - FOR TESTING PURPOSES ONLY
+This file contains entirely fictional data generated for software testing.
+No real person, account, or institution is represented.
+
+Theme: Driver's License (fictional)
+License Number: D1234567X9
+State: ZZ (fictional)
